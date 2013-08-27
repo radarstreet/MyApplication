@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377563340737 383 a50f1fb8578b9184731b759f0ed35efe53d775d5 C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\BuildConfig.class
+1377563340706 518 f61a659ac0be68a1455ce5755470b57b57fb2580 C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\R$dimen.class
+1377563340734 867 88b93265f5ea3115b4b28412b885b4df557f40be C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\R.class
+1377563340722 529 4c111c712a3809b4e79545613324442ed6cf8055 C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\R$string.class
+1377563340708 464 66983e22b06522659d03759495854738322f022f C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\R$drawable.class
+1377563340724 488 c48f3b120fcb8c08e0b0be17a0901531f735ea99 C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\R$style.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Users\Russell\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1377563340718 460 4d7ea439fa69c7df85a2f19b5c804e484e8abcfa C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\R$layout.class
+1377563340703 397 debd17855e7feb3886e146ac53753dab0b47f28d C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\R$attr.class
+1377563340693 855 e7e353e7548e76c53892bfea6ac8d6c23648d2ce C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\MainActivity.class
+1377563340710 450 80dace688a71625b74c96149b1b34877ac89af40 C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\R$id.class
+1377563340720 445 01a0194957022daed78ffa2bd6753cad026b3924 C:\Users\Russell\AndroidStudioProjects\MyApplicationProject\MyApplication\build\classes\debug\com\radarstreet\android\myapplication\R$menu.class
